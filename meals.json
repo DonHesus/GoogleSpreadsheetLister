@@ -1,0 +1,9 @@
+{
+   "meals":{
+      "Śniadanie":"A3:C7",
+      "II Śniadanie":"I4:K8",
+      "Obiad":"A13:C17",
+      "Podwieczorek":"I13:K17",
+      "Kolacja":"A23:C27"
+   }
+}
